@@ -353,6 +353,7 @@ section {
   grid-template-columns: repeat(1, 1fr);
   grid-gap: 2rem;
   padding-bottom: 3rem;
+  grid-auto-flow: column;
   .timeline-item {
     position: relative;
     padding-left: 3rem;
