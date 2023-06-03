@@ -308,23 +308,23 @@ section {
   transition: all 0.4s ease-in-out;
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
+.about-stats .progress-bars .progress-bar .progress-con .progress .azure {
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .power {
+  width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+.about-stats .progress-bars .progress-bar .progress-con .progress .linux {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .cisco {
   width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .web {
+  width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .mysql {
+  width: 65%;
 }
 
 .stat-title {
